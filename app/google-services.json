@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "793815866589",
+    "firebase_url": "https://salvarimagens-94ec5.firebaseio.com",
+    "project_id": "salvarimagens-94ec5",
+    "storage_bucket": "salvarimagens-94ec5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793815866589:android:82531e1560264ce32ecf34",
+        "android_client_info": {
+          "package_name": "com.example.set_images"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793815866589-0s2riarkpkgg84e3ctd9u6irpi0bne29.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.set_images",
+            "certificate_hash": "dbd5e51ca9af36ab36531bfe90cfce0004930178"
+          }
+        },
+        {
+          "client_id": "793815866589-657scfv5e3gm48l0mkhf1g2h8kk26fm5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc0mVuMpxYyRTYQBVGsQHnGTwp9Huqurs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793815866589-657scfv5e3gm48l0mkhf1g2h8kk26fm5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
